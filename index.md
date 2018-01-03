@@ -20,7 +20,7 @@ Avatar ERA helps Tax Authorities fiscalize sale transactions by providing the in
 * **V-SDC:** Those integrators not willing to deal directly with the SE may use the V-SDC to have the invoiced produced by their POS / CIS fiscalized by Avatar. Instead of a SAM card, V-SDC devices must have a certificate issued by Avatar's [CA](https://en.wikipedia.org/wiki/Certificate_authority) and send the invoices to the V-SDC for fiscalization before issuing them to the end customers.
 
 **Official documentation:** 
-* [APDU API](.https://avatartechnologies.github.io/integrators/blob/master/Avatar_APDU_v1_5.pdf)
+* [APDU API](https://avatartechnologies.github.io/integrators/blob/master/Avatar_APDU_v1_5.pdf)
 * [Avatar API](https://avatartechnologies.github.io/integrators/blob/master/AVATARAPIDOCUMENTATION.pdf)
 
 **POA (Proof of Audit):** In order to ensure that all invoices are signed and submitted to Avatar, all SAM Card devices must perform a POA (Proof of Audit) process periodically, at least before a configurable limit on the amount of sales that can be "signed" to Avatar is reached, the SAM card is locked and it is no longer possible to sign more invoices until a POA is successfully performed. 
