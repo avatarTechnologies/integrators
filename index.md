@@ -28,8 +28,8 @@ Avatar ERA helps Tax Authorities fiscalize sale transactions by providing the in
 **Invoice Verification:** Approved CIS must produce a printed version of invoices with a QR code containing a verification URL for the invoice. End customers can verify the invoice is valid by accessing that URL
 
 ## SAM Card devices
-Those integrators planning to develop an I-SDC or E-SDC device should register as Avatar Integrator and request SAM cards preconfigured for an Avatar sandbox environment. Please do it [here.]()
+Those integrators planning to develop an I-SDC or E-SDC device should register as Avatar Integrator and request SAM cards preconfigured for an Avatar sandbox environment. Please do it [here](integrators.avatar-technologies.com)
 
 
 ## V-SDC devices
-Those integrators planning to develop an I-SDC or E-SDC device should register as Avatar Integrator and request a certificates preconfigured for an Avatar sandbox environment. Please do it [here.]()
+Those integrators planning to develop an I-SDC or E-SDC device should register as Avatar Integrator and request a certificates preconfigured for an Avatar sandbox environment. Please do it [here.](integrators.avatar-technologies.com)
